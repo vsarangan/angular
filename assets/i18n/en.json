@@ -1,0 +1,21 @@
+{
+    "admin": "Admin",
+    "signin": "SIGN IN",
+	"copyright": "Copyright",
+	"help":"Help",
+	"aboutus":"About Us",
+	"lastlogin": "Last Login",
+	"nounsucess":"No Of Unsuccessful Login's",
+	"sidebar": {
+	"apps": "Apps",
+	"dashboard": "Dashboard",
+	"insightsreport":"Insights Report",
+	"newapp": "New App",
+	"stepper":"Stepper",
+	"usermanagement": "User Management",
+	"systemproperty":"System Property",
+	"notification": "Notification",
+	"scheduler":"Scheduler",
+	"setting": "Setting"
+	}
+}

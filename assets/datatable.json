@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "MSG001",
+        "header": "Success",
+        "message": "Success Message",
+		"common" : "Common Data Purpose"
+    },
+    {
+        "id": 2,
+        "name": "MSG002",
+        "header": "Fail",
+        "message": "Fail Message",
+		"common" : "Common Data Purpose"
+    },
+	{
+        "id": 3,
+        "name": "MSG003",
+        "header": "Complete",
+        "message": "Complete Message",
+		"common" : "Common Data Purpose"
+    },
+    {
+        "id": 4,
+        "name": "MSG004",
+        "header": "Warning",
+        "message": "Warning Message having some data form check UI",
+		"common" : "Common Data Purpose"
+    },
+	{
+        "id": 5,
+        "name": "MSG004",
+        "header": "Response",
+        "message": "Response Message",
+		"common" : "Common Data Purpose"
+    },
+    {
+        "id": 6,
+        "name": "MSG006",
+        "header": "Test",
+        "message": "Test Message",
+		"common" : "Testing Purpose Only"
+    },
+	{
+        "id": 7,
+        "name": "MSG007",
+        "header": "REST Call",
+        "message": "REST Call Message",
+		"common" : "Common Data Purpose"
+    },
+    {
+        "id": 8,
+        "name": "MSG008",
+        "header": "Service",
+        "message": "Service Message",
+		"common" : "Common Data Purpose"
+    },
+	{
+        "id": 9,
+        "name": "MSG009",
+        "header": "Temp",
+        "message": "Temp Message",
+		"common" : "Common Data Purpose"
+    },
+    {
+        "id": 10,
+        "name": "MSG010",
+        "header": "Delete",
+        "message": "Delete Message",
+		"common" : "Common Data Purpose"
+    },
+	{
+        "id": 11,
+        "name": "MSG011",
+        "header": "Get",
+        "message": "Get Message",
+		"common" : "Common Data Purpose"
+    },
+    {
+        "id": 12,
+        "name": "MSG012",
+        "header": "Post",
+        "message": "Post Message",
+		"common" : "Common Data Purpose"
+    }
+]

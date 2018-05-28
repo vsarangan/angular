@@ -1,0 +1,21 @@
+{
+    "admin": "administrateur",
+	"signin": "SIGNE DANS",
+	"copyright": "droits d'auteur",
+	"help":"Aidez-moi",
+	"aboutus":"à propos de nous",
+	"lastlogin": "Dernière connexion",
+	"nounsucess":"Nombre de connexions infructueuses",
+	"sidebar": {
+	"apps": "Application",
+	"dashboard": "tableau de bord",
+	"insightsreport":"Insights rapport  ",
+	"newapp": "Nouveau App",
+	"stepper":"pas à pas",
+	"usermanagement": "Utilisateur la gestion    ",
+	"systemproperty":"propriété du système",
+	"notification": "Notification",
+	"scheduler":"Planificateur          ",
+	"setting": "réglage"
+	}
+}

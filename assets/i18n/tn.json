@@ -1,0 +1,21 @@
+{
+    "admin": "நிர்வாகம்",
+    "signin": "உள்நுழைக",
+	"copyright": "பதிப்புரிமை",
+	"help":"உதவி",
+	"aboutus":"எங்களை பற்றி",
+	"lastlogin": "கடைசி உள் நுழை",
+	"nounsucess":"வெற்றிகரமான உள்நுழைவு இல்லை",
+	"sidebar": {
+	"apps":"பயன்பாடுகள்",
+	"dashboard": "அறை ",
+	"insightsreport":" அறிக்கை",
+	"newapp": "புதிய",
+	"stepper":"படி படியாக",
+	"usermanagement": "மேலாண்மை",
+	"systemproperty":"கணினி சொத்து",
+	"notification": "அறிவிப்பு",
+	"scheduler":"திட்டமிடுதல்",
+	"setting": "அமைப்பை"
+	}
+}

@@ -1,0 +1,121 @@
+{
+  "configVersion": 1,
+  "index": "/",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/0.03427d00ef63b83ffe6b.chunk.js",
+        "/1.a0a6a3d53df15d3d99dc.chunk.js",
+        "/2.28f0d11d163bb1f3975b.chunk.js",
+        "/3.b9af5fb40ab960fdeb8f.chunk.js",
+        "/4.3ba96cdc45187ca6dfb5.chunk.js",
+        "/5.72414865e7009c209577.chunk.js",
+        "/6.b61440bc6feaf8b85b67.chunk.js",
+        "/7.a784fd7750d194209cbf.chunk.js",
+        "/inline.b947f72dd309ea015e8c.bundle.js",
+        "/main.1aacb4a98af3131686da.bundle.js",
+        "/polyfills.9b763e3f7fc3f0f2bdde.bundle.js",
+        "/styles.733b9e5ab7b1efe402a5.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/TENS.jpg",
+        "/assets/background1.jpg",
+        "/assets/data.json",
+        "/assets/datatable.json",
+        "/assets/i18n/en.json",
+        "/assets/i18n/fr.json",
+        "/assets/i18n/tn.json",
+        "/assets/images/manifest/icon-128x128.png",
+        "/assets/images/manifest/icon-144x144.png",
+        "/assets/images/manifest/icon-152x152.png",
+        "/assets/images/manifest/icon-192x192.png",
+        "/assets/images/manifest/icon-384x384.png",
+        "/assets/images/manifest/icon-512x512.png",
+        "/assets/images/manifest/icon-72x72.png",
+        "/assets/images/manifest/icon-96x96.png",
+        "/assets/insights.json",
+        "/assets/product.json",
+        "/assets/pushicons/default.png",
+        "/assets/pushicons/icon-128x128.png",
+        "/assets/pushicons/icon-144x144.png",
+        "/assets/pushicons/icon-152x152.png",
+        "/assets/pushicons/icon-192x192.png",
+        "/assets/pushicons/icon-384x384.png",
+        "/assets/pushicons/icon-512x512.png",
+        "/assets/pushicons/icon-72x72.png",
+        "/assets/pushicons/icon-96x96.png",
+        "/assets/tag.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/0.03427d00ef63b83ffe6b.chunk.js": "77310a39908aad281641f69ff527de42988f3427",
+    "/1.a0a6a3d53df15d3d99dc.chunk.js": "5616bb3b0db841694463fc4d94143e6bff0f67dd",
+    "/2.28f0d11d163bb1f3975b.chunk.js": "6f2f5390f0512c369745f79311fc479af14e09a5",
+    "/3.b9af5fb40ab960fdeb8f.chunk.js": "7bcb1b9621bddd9c49b5b0713a6884eb04e6415a",
+    "/4.3ba96cdc45187ca6dfb5.chunk.js": "b694f142a3d216b0d0d8a31d2d5dc89dcb1d6959",
+    "/5.72414865e7009c209577.chunk.js": "728240ecb91187dfbe512687e9c77ed11730ef51",
+    "/6.b61440bc6feaf8b85b67.chunk.js": "60bad04aabc8045bed2cfaf47468c0b4cf0e3bac",
+    "/7.a784fd7750d194209cbf.chunk.js": "ab20528d01adb0bbadaa49180b71e170965e9561",
+    "/assets/TENS.jpg": "645d3f01b460e3d39518e3501bad4216132bb569",
+    "/assets/background1.jpg": "30fb15a57206cd798ce41e176c8193b2185d53d4",
+    "/assets/data.json": "dc9a0b5b884df8d70842d3e5c1537e4fc5f2b794",
+    "/assets/datatable.json": "cb7602bdf9cf9fc401916b5fdd878f397548db31",
+    "/assets/i18n/en.json": "89c966e1c8415769c2642c04d50129c47fb7c0b5",
+    "/assets/i18n/fr.json": "05f182d844bb4c9d4a6dddc0c545462b61778fa2",
+    "/assets/i18n/tn.json": "f69877935bc607365c96b8dce41a0c09427e0c55",
+    "/assets/images/manifest/icon-128x128.png": "432691b762aff5f67b2d499822733d45903a8d0a",
+    "/assets/images/manifest/icon-144x144.png": "432691b762aff5f67b2d499822733d45903a8d0a",
+    "/assets/images/manifest/icon-152x152.png": "432691b762aff5f67b2d499822733d45903a8d0a",
+    "/assets/images/manifest/icon-192x192.png": "432691b762aff5f67b2d499822733d45903a8d0a",
+    "/assets/images/manifest/icon-384x384.png": "432691b762aff5f67b2d499822733d45903a8d0a",
+    "/assets/images/manifest/icon-512x512.png": "432691b762aff5f67b2d499822733d45903a8d0a",
+    "/assets/images/manifest/icon-72x72.png": "b3723feb39ccc4ff275edf1bf5e27fede7b19502",
+    "/assets/images/manifest/icon-96x96.png": "9d830012169615d7fe5daef2c45f479b60079948",
+    "/assets/insights.json": "1fa544e7cafdeeee75321d7c014df36be354d606",
+    "/assets/product.json": "b9d38a09132e46dc76d6b5335b39cc556e4ed96e",
+    "/assets/pushicons/default.png": "892c8ef31a10e25a1973a0c98d83743a0f0a404a",
+    "/assets/pushicons/icon-128x128.png": "75b144698e3ca30c6031d974861b8c0bb747bfb6",
+    "/assets/pushicons/icon-144x144.png": "e6425e890ca5f2f1b662052725b918c30aea9991",
+    "/assets/pushicons/icon-152x152.png": "601a2ca182209a6f108867db606e843585293296",
+    "/assets/pushicons/icon-192x192.png": "6f2b7d0ce463d77c6d6940577dca3174b261f37e",
+    "/assets/pushicons/icon-384x384.png": "85befd2eed2ffbc421b85357756d1ccfc8c87a50",
+    "/assets/pushicons/icon-512x512.png": "221b1e17a8f9a86ec2ec920e311910fe3a9bdb73",
+    "/assets/pushicons/icon-72x72.png": "9e3c783dda637fda4b1389ea5d26dcea62e193cd",
+    "/assets/pushicons/icon-96x96.png": "892c8ef31a10e25a1973a0c98d83743a0f0a404a",
+    "/assets/tag.png": "3d82fcc456ae22cec1e27db2292c901155842755",
+    "/inline.b947f72dd309ea015e8c.bundle.js": "eea298742216f165c6b57a277c3f7a19d39c6160",
+    "/main.1aacb4a98af3131686da.bundle.js": "9da19a5b9b762e022db14a53b23b65939c653a08",
+    "/polyfills.9b763e3f7fc3f0f2bdde.bundle.js": "69cec7e1de1adf636b0dc6e022737240effec22d",
+    "/styles.733b9e5ab7b1efe402a5.bundle.css": "a3f6ce60765a24e7395745ec66c96dfde701b7d0"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*\\.[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*\\/.*$"
+    }
+  ]
+}

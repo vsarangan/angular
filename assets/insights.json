@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Email",
+    "value": 10
+  },
+  {
+    "name": "SMS",
+    "value": 12
+  },
+  {
+    "name": "Mobile",
+    "value": 17
+  },
+  {
+    "name": "Web",
+    "value": 19
+  }
+]
